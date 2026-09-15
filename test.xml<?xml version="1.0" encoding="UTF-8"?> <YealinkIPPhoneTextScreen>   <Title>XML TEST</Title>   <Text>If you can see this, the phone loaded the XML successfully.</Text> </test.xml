@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneTextScreen>
+  <Title>XML TEST</Title>
+  <Text>If you can see this, the phone loaded the XML successfully.</Text>
+</YealinkIPPhoneTextScreen>
