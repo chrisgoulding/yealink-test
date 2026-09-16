@@ -4,26 +4,31 @@
 
   <MenuItem>
     <Prompt>Jack Raison</Prompt>
+    <URI>1000</URI>
     <Dial>1000</Dial>
   </MenuItem>
 
   <MenuItem>
     <Prompt>Clare Raison</Prompt>
+    <URI>1001</URI>
     <Dial>1001</Dial>
   </MenuItem>
 
   <MenuItem>
     <Prompt>Dan Smith</Prompt>
+    <URI>1006</URI>
     <Dial>1006</Dial>
   </MenuItem>
 
   <MenuItem>
-    <Prompt>Steve Waldron</Prompt>
+    <Prompt>Steve Waldron.</Prompt>
+    <URI>1007</URI>
     <Dial>1007</Dial>
   </MenuItem>
 
   <MenuItem>
     <Prompt>Tom Franklin</Prompt>
+    <URI>1017</URI>
     <Dial>1017</Dial>
   </MenuItem>
 
