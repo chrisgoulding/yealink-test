@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneTextMenu>
-  <Title>Management</Title>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<YealinkIPPhoneTextMenu style="none" Beep="no" Timeout="30" LockIn="no">
+  <Title wrap="yes">Management</Title>
 
   <MenuItem>
     <Prompt>Jack Raison</Prompt>
@@ -18,7 +18,7 @@
   </MenuItem>
 
   <MenuItem>
-    <Prompt>Steve Waldron.</Prompt>
+    <Prompt>Steve Waldron</Prompt>
     <Dial>1007</Dial>
   </MenuItem>
 
@@ -26,4 +26,14 @@
     <Prompt>Tom Franklin</Prompt>
     <Dial>1017</Dial>
   </MenuItem>
+
+  <SoftKey index="1">
+    <Label>Send</Label>
+    <URI>SoftKey:Dial</URI>
+  </SoftKey>
+
+  <SoftKey index="2">
+    <Label>Exit</Label>
+    <URI>SoftKey:Exit</URI>
+  </SoftKey>
 </YealinkIPPhoneTextMenu>
