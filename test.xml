@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneTextScreen>
-  <Title>XML TEST</Title>
-  <Text>If you can see this, the phone loaded the XML successfully.</Text>
-</YealinkIPPhoneTextScreen>
+<YealinkIPPhoneTextMenu>
+  <Title>Management</Title>
+
+  <MenuItem>
+    <Prompt>Jack Raison</Prompt>
+    <URI>Dial:1000</URI>
+  </MenuItem>
+
+  <MenuItem>
+    <Prompt>Clare Raison</Prompt>
+    <URI>Dial:1001</URI>
+  </MenuItem>
+
+  <MenuItem>
+    <Prompt>Dan Smith</Prompt>
+    <URI>Dial:1006</URI>
+  </MenuItem>
+
+  <MenuItem>
+    <Prompt>Steve Waldron</Prompt>
+    <URI>Dial:1007</URI>
+  </MenuItem>
+
+  <MenuItem>
+    <Prompt>Tom Franklin</Prompt>
+    <URI>Dial:1017</URI>
+  </MenuItem>
+
+</YealinkIPPhoneTextMenu>
