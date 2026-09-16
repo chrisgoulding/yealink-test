@@ -4,27 +4,26 @@
 
   <MenuItem>
     <Prompt>Jack Raison</Prompt>
-    <URI>Dial:1000</URI>
+    <Dial>1000</Dial>
   </MenuItem>
 
   <MenuItem>
     <Prompt>Clare Raison</Prompt>
-    <URI>Dial:1001</URI>
+    <Dial>1001</Dial>
   </MenuItem>
 
   <MenuItem>
     <Prompt>Dan Smith</Prompt>
-    <URI>Dial:1006</URI>
+    <Dial>1006</Dial>
   </MenuItem>
 
   <MenuItem>
-    <Prompt>Steve Waldron</Prompt>
-    <URI>Dial:1007</URI>
+    <Prompt>Steve Waldron.</Prompt>
+    <Dial>1007</Dial>
   </MenuItem>
 
   <MenuItem>
     <Prompt>Tom Franklin</Prompt>
-    <URI>Dial:1017</URI>
+    <Dial>1017</Dial>
   </MenuItem>
-
 </YealinkIPPhoneTextMenu>
